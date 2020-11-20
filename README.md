@@ -1,0 +1,2 @@
+# vspython
+For Azure Devops
